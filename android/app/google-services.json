@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599537950237",
+    "project_id": "alulink",
+    "storage_bucket": "alulink.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599537950237:android:2fafab2202d5e2205c70f4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-2HiWm33mdclTleCoMvy0fzv0tJtXOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
