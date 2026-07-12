@@ -116,7 +116,7 @@ flutter test
 
 ## Technical Report
 You can access the tehcnical report that contains everything to know concerning this project
-[Technical_Report_Link]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/Aadeleye11/formative3/blob/main/AyomideAdeleye_FinalFlutterProject.pdf))
+[Technical Report Link](https://github.com/Aadeleye11/formative3/blob/main/AyomideAdeleye_FinalFlutterProject.pdf)
 
 ## Author
 
