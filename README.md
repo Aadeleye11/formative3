@@ -116,4 +116,5 @@ flutter test
 
 ## Author
 
-Ayomide Adeleye — BSc Software Engineering, African Leadership University.
+Me (Info in the GitHub Profile), African Leadership University.
+You're welcome 🙂.
