@@ -114,6 +114,10 @@ flutter test
 - No Firebase Storage, Cloud Messaging, or Cloud Functions — media is compressed and stored inline in Firestore, and notifications only update while the app is open.
 - Screening question backend for "verified experience" on the Passport doesn't exist yet, so the Passport always starts at zero until that feature is built.
 
+## Technical Report
+You can access the tehcnical report that contains everything to know concerning this project
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
+
 ## Author
 
 Me (Info in the GitHub Profile), African Leadership University.
